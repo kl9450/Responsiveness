@@ -1,2 +1,2 @@
 # responsiveness
-Make the web page responsive
+Making a nested table webpage responsive
